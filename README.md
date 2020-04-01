@@ -11,7 +11,7 @@ Participants will learn:
 
 This git repository will contain the teaching materials for this course and will include a number of Python notebooks. We will add and update the content of this page as we get closer to the meeting.
 
-**Course agenda:
+**Course agenda:**
 
 - Topic 1 : Sensors 
 
