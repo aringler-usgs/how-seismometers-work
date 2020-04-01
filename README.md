@@ -13,25 +13,25 @@ This git repository will contain the teaching materials for this course and will
 
 **Course agenda:
 
-**- Topic 1 : Sensors 
+- Topic 1 : Sensors 
 
-  How do they work and what sensors are capable of recording what
-  Traditional mechanical, and modern electronic force balance feedback sensors
+  - How do they work and what sensors are capable of recording what
+  - Traditional mechanical, and modern electronic force balance feedback sensors
     
-**- Topic 2 : Sensor Specification
+- Topic 2 : Sensor Specification
   
-  How do we know what we are recording and what are some of the limitations of our units
-  Sensor noise, sensitivity, damping synamic range
+  - How do we know what we are recording and what are some of the limitations of our units
+  - Sensor noise, sensitivity, damping synamic range
   
-- Short break
++ Short break
 
-**- Topic 3 : Instrument Responses
+- Topic 3 : Instrument Responses
 
-  What is the instrument response and how do we remove it
-  RESP format, poles and zeros, how to plot and interpret
+  - What is the instrument response and how do we remove it
+  - RESP format, poles and zeros, how to plot and interpret
   
-**- Topic 4 : Hands on practices
+- Topic 4 : Hands on practices
 
-  Additional hands on practice with data to reinforce the above topics
+  - Additional hands on practice with data to reinforce the above topics
 
 
