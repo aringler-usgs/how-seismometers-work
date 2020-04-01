@@ -9,22 +9,28 @@ Participants will learn:
 - Properties of seismic sensors such as dynamic range, gain, and damping
 - How sensors are built and created
 
-This git repository will contain the teaching materials for this course. Which will include a number of Python notebooks. 
+This git repository will contain the teaching materials for this course and will include a number of Python notebooks. We will add and update the content of this page as we get closer to the meeting.
 
-The course agenda is broken into the following sections:
+**Course agenda:
 
-- Topic 1 : Sensors 
+**- Topic 1 : Sensors 
+
+  How do they work and what sensors are capable of recording what
+  Traditional mechanical, and modern electronic force balance feedback sensors
     
-    How do they work and what sensors are capable of recording what
-- Topic 2 : calibration/noise/other specifications
+**- Topic 2 : Sensor Specification
   
   How do we know what we are recording and what are some of the limitations of our units
+  Sensor noise, sensitivity, damping synamic range
+  
 - Short break
 
-- Topic 3 : Responses
+**- Topic 3 : Instrument Responses
 
   What is the instrument response and how do we remove it
-- Topic 4 : hands on practices
+  RESP format, poles and zeros, how to plot and interpret
+  
+**- Topic 4 : Hands on practices
 
   Additional hands on practice with data to reinforce the above topics
 
