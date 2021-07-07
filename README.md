@@ -21,7 +21,7 @@ This git repository will contain the teaching materials for this course and will
 - Topic 2 : Sensor Specification
   
   - How do we know what we are recording and what are some of the limitations of our units
-  - Sensor noise, sensitivity, damping synamic range
+  - Sensor noise, sensitivity, and dynamic range
   
 + Short break
 
