@@ -25,10 +25,12 @@ This git repository will contain the teaching materials for this course and will
   - Introduction to Seismic Instrument Responses
   - Where to find Responses and how to read RESP files
   - Useful Links
-    - QSPA Station Information from IRIS
-    http://ds.iris.edu/mda/IU/QSPA/
+    QSPA Station Information from IRIS http://ds.iris.edu/mda/IU/QSPA/
+    
     QSPA GS-13 Information http://ds.iris.edu/mda/IU/QSPA/85/HHZ/?starttime=2011-01-18T00:00:00&endtime=2599-12-31T23:59:59
+    
     QSPA GS-13 Response File http://service.iris.edu/irisws/resp/1/query?net=IU&sta=QSPA&loc=85&cha=HHZ&starttime=2011-01-18T00:00:00&endtime=2599-12-31T23:59:59
+    
   - Exercise 1 on Response Removal (Python Jupyter Notebook )
 In case you are interested in what generated this seismic
 signal:
