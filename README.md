@@ -24,7 +24,7 @@ Who: Robert Anthony (USGS), Akram Mostafanejad (PASSCAL), Adam Ringler (USGS)
 Python Jupyter Notebook, How to:
 
 All the exercises are located and hosted on our GitHub repository. For this workshop, we will be running the python scripts and exercises from a cloud space called mybinder. Follow the instructions below:
-- Go to the Binder Link for Python Jupyter Notebook Exercises: ○ Click here: https://mybinder.org/
+- Go to the Binder Link for Python Jupyter Notebook Exercises: Click here: https://mybinder.org/
 - Load the exercises from this Github Repository:
   - Copy the link below to Binder under “GitHub repository name or URL” https://github.com/aringler-usgs/how-seismometers-work
   - Hit “Launch”
