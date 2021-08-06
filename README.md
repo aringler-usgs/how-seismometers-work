@@ -12,26 +12,40 @@ Participants will learn:
 This git repository will contain the teaching materials for this course and will include a number of Python notebooks. We will add and update the content of this page as we get closer to the meeting.
 
 **Course agenda:**
+- Welcome notes, Motivations, and Introductions (5 min)
 
-- Topic 1 : Sensors 
+- Part I: Seismic sensors and their structure (Akram Mostafanejad, PASSCAL)
+  - Seismic sensors in time; physics and history review
+  - Seismic sensors; the sensing elements
+  - Short break
+  - Python jupyter notebook exercise
+  - Electronic force balance seismic sensors
+  - Q&A
+- Part II: Seismic Instrument Response and Response Removal (Rob Anthony, USGS)
+  - Introduction to Seismic Instrument Responses
+  - Where to find Responses and how to read RESP files
+  - Useful Links
+    -QSPA Station Information from IRIS
+    -http://ds.iris.edu/mda/IU/QSPA/
+    - QSPA GS-13 Information http://ds.iris.edu/mda/IU/QSPA/85/HHZ/?starttime=2011-01-18T00 :00:00&endtime=2599-12-31T23:59:59
+QSPA GS-13 Response File
+● http://service.iris.edu/irisws/resp/1/query?net=IU&sta=QSPA&loc= 85&cha=HHZ&starttime=2011-01-18T00:00:00&endtime=2599-12- 31T23:59:59
+  - Exercise 1 on Response Removal (Python Jupyter Notebook )
+In case you are interested in what generated this seismic
+signal:
+USGS Event Page for M 6.0 Balleny Islands Event
+https://earthquake.usgs.gov/earthquakes/eventpage/us7000clt8/executive
 
-  - How do they work and what sensors are capable of recording what
-  - Traditional mechanical, and modern electronic force balance feedback sensors
-    
-- Topic 2 : Sensor Specification
-  
-  - How do we know what we are recording and what are some of the limitations of our units
-  - Sensor noise, sensitivity, and dynamic range
-  
-+ Short break
-
-- Topic 3 : Instrument Responses
-
-  - What is the instrument response and how do we remove it
-  - RESP format, poles and zeros, how to plot and interpret
-  
-- Topic 4 : Hands on practices
-
-  - Additional hands on practice with data to reinforce the above topics
-
+  - Exercise 2 using NRL to make your own response and verify that you got it right! (Python Jupyter Notebook)
+■ Use Nominal Response Library (Thanks Mary Templeton!!!) for this
+exercise: http://ds.iris.edu/NRL/
+■ Here’s the earthquake you’re looking at to verify your response:
+https://earthquake.usgs.gov/earthquakes/eventpage/us7000bq10/executive
+- Part III: Instrument Specifications and why we should care (Adam Ringler, USGS)
+  - What do we want to record?
+  - Basic Specifications
+  - How do they relate to modern seismology
+  - Beyond specifications
+  - Exercise on self-noise (Python Jupyter Notebook)
+ - Summary, wrap up, and Q&A (10 min)  Feedback and evaluation (10 min)
 
