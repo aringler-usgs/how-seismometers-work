@@ -12,6 +12,27 @@ Participants will learn:
 This git repository will contain the teaching materials for this course and will include a number of Python notebooks. We will add and update the content of this page as we get closer to the meeting.
 
 **Course agenda:**
+
+
+Retrieving Signals from a Noisy World: How Seismometers Work
+
+When: August 9th, 2021, 9am-1pm MT
+
+Where: At the zoom rooms (prior to the GAGE-SAGE workshop 2021)
+
+Who: Robert Anthony (USGS), Akram Mostafanejad (PASSCAL), Adam Ringler (USGS)
+Python Jupyter Notebook, How to:
+
+All the exercises are located and hosted on our GitHub repository. For this workshop, we will be running the python scripts and exercises from a cloud space called mybinder. Follow the instructions below:
+- Go to the Binder Link for Python Jupyter Notebook Exercises: ○ Click here: https://mybinder.org/
+- Load the exercises from this Github Repository:
+  - Copy the link below to Binder under “GitHub repository name or URL” https://github.com/aringler-usgs/how-seismometers-work
+  - Hit “Launch”
+  - Wait few minutes for the docker image to finish building
+  - Have fun playing!
+
+
+
 - Welcome notes, Motivations, and Introductions (5 min)
 
 - Part I: Seismic sensors and their structure (Akram Mostafanejad, PASSCAL)
