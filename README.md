@@ -27,8 +27,8 @@ This git repository will contain the teaching materials for this course and will
   - Useful Links
     - QSPA Station Information from IRIS
     http://ds.iris.edu/mda/IU/QSPA/
-    QSPA GS-13 Information http://ds.iris.edu/mda/IU/QSPA/85/HHZ/?starttime=2011-01-18T00 :00:00&endtime=2599-12-31T23:59:59
-    QSPA GS-13 Response File http://service.iris.edu/irisws/resp/1/query?net=IU&sta=QSPA&loc= 85&cha=HHZ&starttime=2011-01-18T00:00:00&endtime=2599-12- 31T23:59:59
+    QSPA GS-13 Information http://ds.iris.edu/mda/IU/QSPA/85/HHZ/?starttime=2011-01-18T00:00:00&endtime=2599-12-31T23:59:59
+    QSPA GS-13 Response File http://service.iris.edu/irisws/resp/1/query?net=IU&sta=QSPA&loc=85&cha=HHZ&starttime=2011-01-18T00:00:00&endtime=2599-12-31T23:59:59
   - Exercise 1 on Response Removal (Python Jupyter Notebook )
 In case you are interested in what generated this seismic
 signal:
@@ -36,9 +36,9 @@ USGS Event Page for M 6.0 Balleny Islands Event
 https://earthquake.usgs.gov/earthquakes/eventpage/us7000clt8/executive
 
   - Exercise 2 using NRL to make your own response and verify that you got it right! (Python Jupyter Notebook)
-■ Use Nominal Response Library (Thanks Mary Templeton!!!) for this
+  Use Nominal Response Library (Thanks Mary Templeton!!!) for this
 exercise: http://ds.iris.edu/NRL/
-■ Here’s the earthquake you’re looking at to verify your response:
+ Here’s the earthquake you’re looking at to verify your response:
 https://earthquake.usgs.gov/earthquakes/eventpage/us7000bq10/executive
 - Part III: Instrument Specifications and why we should care (Adam Ringler, USGS)
   - What do we want to record?
